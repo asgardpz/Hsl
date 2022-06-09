@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hsl", "Hsl.csproj", "{3461115D-D939-4806-9DEA-7E46CF17DDA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3461115D-D939-4806-9DEA-7E46CF17DDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3461115D-D939-4806-9DEA-7E46CF17DDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3461115D-D939-4806-9DEA-7E46CF17DDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3461115D-D939-4806-9DEA-7E46CF17DDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D471EE-7A2E-4A2F-89F7-1C5ED5CE6279}
+	EndGlobalSection
+EndGlobal
